@@ -1,0 +1,33 @@
+_repo: Journal-of-William-H-Richardson-a-private-soldier-in-the-campaign-of-New-and-Old-Mexico-under__68587
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, William H.
+    alias: Richardson, Wm. H. (William H.)
+    gutenberg_agent_id: '54831'
+    url: http://www.gutenberg.org/2009/agents/54831
+description: The author was a member of the Second Regiment, Missouri Mounted Volunteers.
+gutenberg_issued: '2022-07-22'
+identifiers:
+  gutenberg: '68587'
+  lccn: 02015428
+language: en
+pgterms:marc905: 20220415193616richardson
+pgterms:marc906: '1848'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :John W. Woods,1848.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Soldiers -- United States -- Diaries'
+- !lcsh 'Doniphan''s Expedition, 1846-1847'
+- !lcsh 'Richardson, William H. -- Diaries'
+- !lcsh 'Mexican War, 1846-1848 -- Personal narratives'
+- GITenberg
+title: Journal of William H. Richardson, a private soldier in the campaign of New
+  and Old Mexico, under the command of Colonel Doniphan of Missouri
+url: http://www.gutenberg.org/ebooks/68587
