@@ -1,5 +1,8 @@
 _repo: Journal-of-William-H-Richardson-a-private-soldier-in-the-campaign-of-New-and-Old-Mexico-under__68587
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68587-h/images/cover.jpg
 creator:
   author:
     agent_name: Richardson, William H.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54831'
     url: http://www.gutenberg.org/2009/agents/54831
 description: The author was a member of the Second Regiment, Missouri Mounted Volunteers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68587#Journal-of-William-H-Richardson-a-private-soldier-in-the-campaign-of-New-and-Old-Mexico-under_
 gutenberg_issued: '2022-07-22'
 identifiers:
   gutenberg: '68587'
